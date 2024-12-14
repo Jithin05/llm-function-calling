@@ -1,4 +1,4 @@
-# llm-function-calling
+# LLM function calling
 
 Here we build an assistant for customers who want to inquire, purchase products of a company. The assistant has access to the following tools, which allows the assistant to access external applications.
 
